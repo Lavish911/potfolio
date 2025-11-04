@@ -16,7 +16,7 @@ export default function ExperienceSection() {
   const experiences: Experience[] = [
     {
       company: "Ativeer Solutions",
-      role: "Web Developer Engineer",
+      role: "Web Developer Engineer Intern",
       period: "July 2025 - Present",
       location: "Kanpur, Uttar Pradesh, India",
       current: true,
@@ -30,7 +30,7 @@ export default function ExperienceSection() {
     },
     {
       company: "Byte Uprise",
-      role: "Web Developer Engineer",
+      role: "Web Developer Engineer Intern",
       period: "April 2025 - May 2025",
       location: "Nagpur, Maharashtra, India",
       responsibilities: [
